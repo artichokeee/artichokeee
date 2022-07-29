@@ -26,19 +26,3 @@ Latest Youtube Videos
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
-
-## My Portfolio
-
-Test Cases
-
-Checklist
-
-Bug-reports
-
-Postman Collections
-
-SQL-scripts
-
-Github
-
-Bash-scripts
