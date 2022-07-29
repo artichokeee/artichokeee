@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's README with latest youtube  videos
+    name: Update this repo's README with latest youtube videos
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
