@@ -1,5 +1,6 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a QA Engineer and Tutor. 
+## A creator of "Artsiom Rusau QA Life" Youtube channel 
 
 Latest Youtube Videos
 
@@ -19,6 +20,9 @@ Latest Youtube Videos
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-
-
-Follow Me
+### Follow Me
+![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)
+![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)
+![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)
+![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)
+![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)
