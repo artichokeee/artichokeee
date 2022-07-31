@@ -5,11 +5,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Я запускаю курс по тестированию / Тестировщик с нуля](https://www.youtube.com/watch?v=znauSi0-z-w)
 - [Что делает тестировщик на работе? / Мой день &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=BUDog4mFrDI)
 - [Стажировка для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=FAyDh0tqzzc)
 - [Советы для начинающих тестировщиков на первом месте работы](https://www.youtube.com/watch?v=vS2UYa5Jcf4)
 - [GeekBrains и Павел Воля / РАЗОБЛАЧЕНИЕ или легкий способ ВОЙТИ В IT? Обзор рынка IT 2022](https://www.youtube.com/watch?v=LrxvXyDtrNM)
-- [Серебряная кнопка уже у меня! Спасибо!](https://www.youtube.com/watch?v=eYIFXrPsi70)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
