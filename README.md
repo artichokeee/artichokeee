@@ -5,11 +5,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Как проходят собеседования на английском языке для тестировщика &lpar;QA&rpar;?](https://www.youtube.com/watch?v=jJLWVs70-8s)
 - [Тренажеры для практики для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=2wEnl38dqmI)
 - [Площадка с реальными мобильными багами для тестировщика](https://www.youtube.com/watch?v=B2YR1jO12V4)
 - [Я запускаю курс по тестированию / Тестировщик с нуля](https://www.youtube.com/watch?v=znauSi0-z-w)
 - [Что делает тестировщик на работе? / Мой день &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=BUDog4mFrDI)
-- [Стажировка для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=FAyDh0tqzzc)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
