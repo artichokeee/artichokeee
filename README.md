@@ -5,11 +5,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что не нужно указывать в резюме тестировщика &lpar;QA Engineer&rpar;?](https://www.youtube.com/watch?v=_euUKP098-U)
 - [Тестировщик это не нахлебник, а полноценный сотрудник!](https://www.youtube.com/watch?v=SPktZhy-Gm8)
 - [Почему тестировщик не будет получать 1000 долларов со старта?](https://www.youtube.com/watch?v=LJqhLm-Bo9A)
 - [Почему тестировщик это не разработчик?](https://www.youtube.com/watch?v=y0CNQjfHmWY)
 - [Как проходят собеседования на английском языке для тестировщика &lpar;QA&rpar;?](https://www.youtube.com/watch?v=jJLWVs70-8s)
-- [Тренажеры для практики для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=2wEnl38dqmI)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
