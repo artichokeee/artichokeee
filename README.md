@@ -5,11 +5,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Команда разработки. Кто есть кто? Часть 2](https://www.youtube.com/watch?v=0cDLHfe9kP0)
 - [Команда разработки. Кто есть кто? Часть 1](https://www.youtube.com/watch?v=rE6vlyevZGo)
 - [Советы для тестировщиков-новичков, которых не берут на работу](https://www.youtube.com/watch?v=aKou9zhGknU)
 - [Что не нужно указывать в резюме тестировщика &lpar;QA Engineer&rpar;?](https://www.youtube.com/watch?v=_euUKP098-U)
 - [Тестировщик это не нахлебник, а полноценный сотрудник!](https://www.youtube.com/watch?v=SPktZhy-Gm8)
-- [Почему тестировщик не будет получать 1000 долларов со старта?](https://www.youtube.com/watch?v=LJqhLm-Bo9A)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
