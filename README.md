@@ -5,11 +5,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Фишки LinkedIn, которые помогут найти тебе работу](https://www.youtube.com/watch?v=u2Q_iTNRvD4)
 - [Команда разработки. Кто есть кто? Часть 2](https://www.youtube.com/watch?v=0cDLHfe9kP0)
 - [Команда разработки. Кто есть кто? Часть 1](https://www.youtube.com/watch?v=rE6vlyevZGo)
 - [Советы для тестировщиков-новичков, которых не берут на работу](https://www.youtube.com/watch?v=aKou9zhGknU)
 - [Что не нужно указывать в резюме тестировщика &lpar;QA Engineer&rpar;?](https://www.youtube.com/watch?v=_euUKP098-U)
-- [Тестировщик это не нахлебник, а полноценный сотрудник!](https://www.youtube.com/watch?v=SPktZhy-Gm8)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
