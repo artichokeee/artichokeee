@@ -5,7 +5,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Фишки LinkedIn, которые помогут найти тебе работу](https://www.youtube.com/watch?v=u2Q_iTNRvD4)
+- [Фишки LinkedIn, которые помогут найти тебе работу тестировщиком &lpar;QA&rpar;](https://www.youtube.com/watch?v=u2Q_iTNRvD4)
 - [Команда разработки. Кто есть кто? Часть 2](https://www.youtube.com/watch?v=0cDLHfe9kP0)
 - [Команда разработки. Кто есть кто? Часть 1](https://www.youtube.com/watch?v=rE6vlyevZGo)
 - [Советы для тестировщиков-новичков, которых не берут на работу](https://www.youtube.com/watch?v=aKou9zhGknU)
