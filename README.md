@@ -30,6 +30,14 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
+## Testing Documentation
+
+- [Checklists](https://www.youtube.com/watch?v=u2Q_iTNRvD4)
+- [Test-Suites and Test-Cases](https://www.youtube.com/watch?v=0cDLHfe9kP0)
+- [Bug-Reports](https://www.youtube.com/watch?v=_euUKP098-U)
+- [SQL Queries](https://www.youtube.com/watch?v=rE6vlyevZGo)
+- [Postman Collections](https://www.youtube.com/watch?v=aKou9zhGknU)
+
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
