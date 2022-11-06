@@ -7,7 +7,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [GitHub &lpar;git&rpar; для тестировщика. Полный курс](https://www.youtube.com/watch?v=GviyJKK6yD8)
+- [GitHub &lpar;git&rpar; для тестировщика &lpar;QA&rpar;. Полный курс](https://www.youtube.com/watch?v=GviyJKK6yD8)
 - [Организация процесса тестирования &lpar;QA&rpar; на пальцах](https://www.youtube.com/watch?v=LoQUf0UREZ0)
 - [Портфолио для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=ORSti2aYnEE)
 - [Фишки LinkedIn, которые помогут найти тебе работу тестировщиком &lpar;QA&rpar;](https://www.youtube.com/watch?v=u2Q_iTNRvD4)
