@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Youtrack -  обзор функций для тестировщика](https://www.youtube.com/watch?v=Z5tUf4VHVQA)
 - [ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?](https://www.youtube.com/watch?v=TF_MEwZx_u0)
 - [Как написать правильный  отчёт о дефекте &lpar;баг репорт&rpar;?](https://www.youtube.com/watch?v=faWdtll7KNc)
 - [QASE - обзор TMS для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Cj6jHmsnWiU)
 - [GitHub &lpar;git&rpar; для тестировщика &lpar;QA&rpar;. Полный курс](https://www.youtube.com/watch?v=GviyJKK6yD8)
-- [Организация процесса тестирования &lpar;QA&rpar; на пальцах](https://www.youtube.com/watch?v=LoQUf0UREZ0)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
