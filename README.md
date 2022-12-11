@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Можно &lpar;СЛОЖНО&rpar; ли стать тестировщиком в 2023?](https://www.youtube.com/watch?v=upFAjlpLACw)
 - [ТЕСТИРОВАНИЕ САЙТА НА ПРИМЕРЕ SKILLBOX. ОБЗОР КУРСОВ ДЛЯ ТЕСТИРОВЩИКОВ](https://www.youtube.com/watch?v=R6ZPordIelY)
 - [Курс Тестировщик с нуля - как эффективно пройти?](https://www.youtube.com/watch?v=g6hbLHEtdfo)
 - [Youtrack -  обзор функций для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Z5tUf4VHVQA)
 - [ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?](https://www.youtube.com/watch?v=TF_MEwZx_u0)
-- [Как написать правильный  отчёт о дефекте &lpar;баг репорт&rpar;?](https://www.youtube.com/watch?v=faWdtll7KNc)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
