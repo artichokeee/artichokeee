@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [QA Advent календарь для тестировщика. 31 задача на каждый день!](https://www.youtube.com/watch?v=hCI7fdJyP9Q)
 - [Можно &lpar;СЛОЖНО&rpar; ли стать тестировщиком &lpar;QA Engineer&rpar; в 2023?](https://www.youtube.com/watch?v=upFAjlpLACw)
 - [ТЕСТИРОВАНИЕ САЙТА НА ПРИМЕРЕ SKILLBOX. ОБЗОР КУРСОВ ДЛЯ ТЕСТИРОВЩИКОВ](https://www.youtube.com/watch?v=R6ZPordIelY)
 - [Курс Тестировщик с нуля - как эффективно пройти?](https://www.youtube.com/watch?v=g6hbLHEtdfo)
 - [Youtrack -  обзор функций для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Z5tUf4VHVQA)
-- [ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?](https://www.youtube.com/watch?v=TF_MEwZx_u0)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
