@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [КАКИЕ ПРИОРИТЕТЫ В ОБУЧЕНИИ У ТЕСТИРОВЩИКА-НОВИЧКА?](https://www.youtube.com/watch?v=7bww2-3ZosQ)
+- [ЧТО ЖДЁТ ТЕБЯ В ТЕСТОВОМ ЗАДАНИИ ДЛЯ ТЕСТИРОВЩИКА?](https://www.youtube.com/watch?v=tPqmMaHlAc4)
 - [Как создать резюме для тестировщика &lpar;QA Engineer&rpar; в 2023? + Итоги года](https://www.youtube.com/watch?v=Z2ykWJE9wCA)
 - [Автоматизация и ручное тестирование. Обзор](https://www.youtube.com/watch?v=hhV7pIHQGMo)
 - [РАЗРАБОТЧИК ПРОТИВ &lpar;ЗА&rpar; ТЕСТИРОВЩИКА с @m0rtymerr](https://www.youtube.com/watch?v=EuLzxYEg-SA)
-- [QA Advent календарь для тестировщика. 31 задача на каждый день!](https://www.youtube.com/watch?v=hCI7fdJyP9Q)
-- [Можно &lpar;СЛОЖНО&rpar; ли стать тестировщиком &lpar;QA Engineer&rpar; в 2023?](https://www.youtube.com/watch?v=upFAjlpLACw)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
