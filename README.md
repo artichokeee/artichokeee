@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [ПОЧЕМУ НЕ ИСПРАВЛЯЮТ ВСЕ БАГИ?](https://www.youtube.com/watch?v=SWQKwAFoEGw)
 - [ЧТО ДЕЛАТЬ, ЕСЛИ В ТЕСТОВОМ ЗАДАНИИ ПРИСЛАЛИ КОД?](https://www.youtube.com/watch?v=gv3g2hVj7v4)
 - [КАКИЕ ПРИОРИТЕТЫ В ОБУЧЕНИИ У ТЕСТИРОВЩИКА-НОВИЧКА?](https://www.youtube.com/watch?v=7bww2-3ZosQ)
 - [ЧТО ЖДЁТ ТЕБЯ В ТЕСТОВОМ ЗАДАНИИ ДЛЯ ТЕСТИРОВЩИКА?](https://www.youtube.com/watch?v=tPqmMaHlAc4)
 - [Как создать резюме для тестировщика &lpar;QA Engineer&rpar; в 2023? + Итоги года](https://www.youtube.com/watch?v=Z2ykWJE9wCA)
-- [Автоматизация и ручное тестирование. Обзор](https://www.youtube.com/watch?v=hhV7pIHQGMo)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
