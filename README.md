@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Есть ли в айти эйджизм или дискриминация по возрасту? #тестировщикснуля #войтивайти](https://www.youtube.com/watch?v=xdGvOsFADmw)
-- [КАК НАЙТИ РАБОТУ ТЕСТИРОВЩИКОМ В 2023?](https://www.youtube.com/watch?v=faNH4LUALbg)
-- [МОЙ ТОП БАГТРЕКИНГОВ И TMS В 2023](https://www.youtube.com/watch?v=aFcbM8nYJf8)
+- [Есть ли в айти эйджизм или дискриминация по возрасту? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=xdGvOsFADmw)
+- [КАК НАЙТИ РАБОТУ ТЕСТИРОВЩИКОМ В 2023? #shorts #войтивайти #тестировщикснуля](https://www.youtube.com/watch?v=faNH4LUALbg)
+- [МОЙ ТОП БАГТРЕКИНГОВ И TMS В 2023 #shorts #войтивайти #тестировщикснуля](https://www.youtube.com/watch?v=aFcbM8nYJf8)
 - [Тестировщик с нуля / Урок 3. Что такое тестирование, QA, QC? Верификация и валидация](https://www.youtube.com/watch?v=lhq1lR8qQvU)
-- [ТЫ НЕПРАВИЛЬНО СОЗДАЁШЬ ТЕСТ-КЕЙСЫ, ЕСЛИ НЕ ИСПОЛЬЗУЕШЬ ЭТО!](https://www.youtube.com/watch?v=9mpjuKe1tS0)
+- [ТЫ НЕПРАВИЛЬНО СОЗДАЁШЬ ТЕСТ-КЕЙСЫ, ЕСЛИ НЕ ИСПОЛЬЗУЕШЬ ЭТО! #shorts #войтивайти #тестировщикснуля](https://www.youtube.com/watch?v=9mpjuKe1tS0)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
