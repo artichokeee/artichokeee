@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что делать, если на проекте нет требований? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=QW6hM-vDLxw)
 - [Баги и дефекты это не KPI #войтивайти #тестировщикснуля #shorts](https://www.youtube.com/watch?v=Ig2HXBROEL8)
 - [Есть ли в айти эйджизм или дискриминация по возрасту? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=xdGvOsFADmw)
 - [КАК НАЙТИ РАБОТУ ТЕСТИРОВЩИКОМ В 2023? #shorts #войтивайти #тестировщикснуля](https://www.youtube.com/watch?v=faNH4LUALbg)
 - [МОЙ ТОП БАГТРЕКИНГОВ И TMS В 2023 #shorts #войтивайти #тестировщикснуля](https://www.youtube.com/watch?v=aFcbM8nYJf8)
-- [Тестировщик с нуля / Урок 3. Что такое тестирование, QA, QC? Верификация и валидация](https://www.youtube.com/watch?v=lhq1lR8qQvU)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
