@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [ChatGPT для тестировщика &lpar;QA Engineer&rpar;. Часть 1](https://www.youtube.com/watch?v=A3B81A_S1uk)
 - [Зачем тестировщику базы данных? #тестировщикснуля #тестировщик #базыданных #shorts](https://www.youtube.com/watch?v=s_ZPfcZn-d4)
 - [Что такое Performance Review? #shorts #тестировщикснуля #тестировщик](https://www.youtube.com/watch?v=7z0iC-pk3Yo)
 - [Зачем тестировщику git и GitHub? #shorts #git #github #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=31MT3iH2fNg)
 - [Postman для QA 2023: обзор функций и интерфейса](https://www.youtube.com/watch?v=B2TxMRFBm8I)
-- [Как просить пересмотр зарплаты? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=5sMR7e6mS4U)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
