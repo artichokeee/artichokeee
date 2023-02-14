@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [ПОЧЕМУ ТЕБЯ НЕ БЕРУТ НА РАБОТУ ТЕСТИРОВЩИКОМ? #войтивайти #тестировщик](https://www.youtube.com/watch?v=FDcy0gLUPJ8)
 - [#2 ChatGPT для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=aoOvNd7iTTM)
 - [Зачем тестировщику знать bash-команды?](https://www.youtube.com/watch?v=G887RlUnklA)
 - [ВАШИ РЕЗЮМЕ ПРОВЕРЯЮТ МАШИНЫ #shorts #работа #резюме](https://www.youtube.com/watch?v=AUvwA6xPphA)
 - [#1 ChatGPT для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=A3B81A_S1uk)
-- [Зачем тестировщику базы данных? #тестировщикснуля #тестировщик #базыданных #shorts](https://www.youtube.com/watch?v=s_ZPfcZn-d4)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
