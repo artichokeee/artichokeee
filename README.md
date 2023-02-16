@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Зачем тестировщику Charles Proxy и Fiddler? #тестировщикснуля](https://www.youtube.com/watch?v=0wV6bYwsjfY)
 - [ПОЧЕМУ ТЕБЯ НЕ БЕРУТ НА РАБОТУ ТЕСТИРОВЩИКОМ? #войтивайти #тестировщик](https://www.youtube.com/watch?v=FDcy0gLUPJ8)
 - [#2 ChatGPT для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=aoOvNd7iTTM)
 - [Зачем тестировщику знать bash-команды?](https://www.youtube.com/watch?v=G887RlUnklA)
 - [ВАШИ РЕЗЮМЕ ПРОВЕРЯЮТ МАШИНЫ #shorts #работа #резюме](https://www.youtube.com/watch?v=AUvwA6xPphA)
-- [#1 ChatGPT для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=A3B81A_S1uk)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
