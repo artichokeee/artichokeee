@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое симулятор и эмулятор?](https://www.youtube.com/watch?v=1xS7Y4eruxY)
 - [Эфир с тестировщиком: курсы и Youtube](https://www.youtube.com/watch?v=FmsgHaDgbTs)
 - [ТЫ MIDDLE QA ENGINEER ЕСЛИ… #тестировщикпо #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=PPrTznA66KI)
 - [Зачем тестировщику Charles Proxy и Fiddler? #тестировщикснуля](https://www.youtube.com/watch?v=0wV6bYwsjfY)
 - [ПОЧЕМУ ТЕБЯ НЕ БЕРУТ НА РАБОТУ ТЕСТИРОВЩИКОМ? #войтивайти #тестировщик](https://www.youtube.com/watch?v=FDcy0gLUPJ8)
-- [#2 ChatGPT для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=aoOvNd7iTTM)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
