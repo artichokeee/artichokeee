@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое матрица трассируемости &lpar;traceability matrix&rpar;?](https://www.youtube.com/watch?v=rXJdX236ADM)
 - [Пути развития для Middle/Senior QA](https://www.youtube.com/watch?v=yx85B9Z2ZG8)
 - [Что такое симулятор и эмулятор?](https://www.youtube.com/watch?v=1xS7Y4eruxY)
 - [Эфир с тестировщиком: курсы и Youtube](https://www.youtube.com/watch?v=FmsgHaDgbTs)
 - [ТЫ MIDDLE QA ENGINEER ЕСЛИ… #тестировщикпо #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=PPrTznA66KI)
-- [Зачем тестировщику Charles Proxy и Fiddler? #тестировщикснуля](https://www.youtube.com/watch?v=0wV6bYwsjfY)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
