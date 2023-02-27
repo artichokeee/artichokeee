@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Внешкольный контент из Дубай - Lost Chambers Aquarium](https://www.youtube.com/watch?v=yQ8QENO4T6w)
 - [Как создать личный бренд в IT?](https://www.youtube.com/watch?v=k3rEiWdCtcU)
 - [Что такое матрица трассируемости &lpar;traceability matrix&rpar;?](https://www.youtube.com/watch?v=rXJdX236ADM)
 - [Пути развития для Middle/Senior QA](https://www.youtube.com/watch?v=yx85B9Z2ZG8)
 - [Что такое симулятор и эмулятор?](https://www.youtube.com/watch?v=1xS7Y4eruxY)
-- [Эфир с тестировщиком: курсы и Youtube](https://www.youtube.com/watch?v=FmsgHaDgbTs)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
