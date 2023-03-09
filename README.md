@@ -7,7 +7,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Классы эквивалентности и граничные значения &lpar;уточнения&rpar;](https://www.youtube.com/watch?v=NQBi716WCOU)
+- [Классы эквивалентности и анализ граничных значений 2.0](https://www.youtube.com/watch?v=NQBi716WCOU)
 - [ИНФОЦЫГАНСТВО В 2023 ГОДУ](https://www.youtube.com/watch?v=JWS_9LrBgiw)
 - [Внешкольный контент из Дубай - Lost Chambers Aquarium](https://www.youtube.com/watch?v=yQ8QENO4T6w)
 - [Как создать личный бренд в IT?](https://www.youtube.com/watch?v=k3rEiWdCtcU)
