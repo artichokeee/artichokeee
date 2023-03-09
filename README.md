@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Классы эквивалентности и граничные значения &lpar;уточнения&rpar;](https://www.youtube.com/watch?v=NQBi716WCOU)
 - [ИНФОЦЫГАНСТВО В 2023 ГОДУ](https://www.youtube.com/watch?v=JWS_9LrBgiw)
 - [Внешкольный контент из Дубай - Lost Chambers Aquarium](https://www.youtube.com/watch?v=yQ8QENO4T6w)
 - [Как создать личный бренд в IT?](https://www.youtube.com/watch?v=k3rEiWdCtcU)
 - [Что такое матрица трассируемости &lpar;traceability matrix&rpar;?](https://www.youtube.com/watch?v=rXJdX236ADM)
-- [Пути развития для Middle/Senior QA](https://www.youtube.com/watch?v=yx85B9Z2ZG8)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
