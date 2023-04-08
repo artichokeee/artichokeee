@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [ГДЕ ИСКАТЬ СТАЖИРОВКИ ДЛЯ АЙТИШНИКОВ?](https://www.youtube.com/watch?v=PsP-Bgga4Is)
 - [ЧТО ПРОВЕРЯЕТ РЕКРУТЕР В ТВОЕМ РЕЗЮМЕ?](https://www.youtube.com/watch?v=20sqlQSdye4)
 - [Где взять коммерческий опыт новичку?](https://www.youtube.com/watch?v=F1GFPXUj6wo)
 - [Ошибки, сбои, отказы, улучшения в тестировании](https://www.youtube.com/watch?v=p4SwlO9XDH0)
 - [Чек-листы и тест-кейсы](https://www.youtube.com/watch?v=D2shLisnEBM)
-- [Классы эквивалентности и анализ граничных значений 2.0](https://www.youtube.com/watch?v=NQBi716WCOU)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
