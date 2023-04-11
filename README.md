@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [КАКИЕ НАВЫКИ ДОЛЖНЫ БЫТЬ У УСПЕШНОГО КАНДИДАТА? #войтивайти](https://www.youtube.com/watch?v=K2RBGSPjzdc)
 - [КАК СТАТЬ МИДДЛОМ ЗА 6 НЕДЕЛЬ? + накрутка опыта в IT](https://www.youtube.com/watch?v=bUBTrHmJ2t0)
 - [ГДЕ ИСКАТЬ СТАЖИРОВКИ ДЛЯ АЙТИШНИКОВ?](https://www.youtube.com/watch?v=PsP-Bgga4Is)
 - [ЧТО ПРОВЕРЯЕТ РЕКРУТЕР В ТВОЕМ РЕЗЮМЕ?](https://www.youtube.com/watch?v=20sqlQSdye4)
 - [Где взять коммерческий опыт новичку?](https://www.youtube.com/watch?v=F1GFPXUj6wo)
-- [Ошибки, сбои, отказы, улучшения в тестировании](https://www.youtube.com/watch?v=p4SwlO9XDH0)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
