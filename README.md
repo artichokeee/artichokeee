@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Как пройти испытательный срок?](https://www.youtube.com/watch?v=82jogTmRyTg)
 - [Импорт, экспорт данных для тестировщика. Операторы HAVING и UNION](https://www.youtube.com/watch?v=-rI8Swa35Pw)
 - [КАКИЕ НАВЫКИ ДОЛЖНЫ БЫТЬ У УСПЕШНОГО КАНДИДАТА? #войтивайти](https://www.youtube.com/watch?v=K2RBGSPjzdc)
 - [КАК СТАТЬ МИДДЛОМ ЗА 6 НЕДЕЛЬ? + накрутка опыта в IT](https://www.youtube.com/watch?v=bUBTrHmJ2t0)
 - [ГДЕ ИСКАТЬ СТАЖИРОВКИ ДЛЯ АЙТИШНИКОВ?](https://www.youtube.com/watch?v=PsP-Bgga4Is)
-- [ЧТО ПРОВЕРЯЕТ РЕКРУТЕР В ТВОЕМ РЕЗЮМЕ?](https://www.youtube.com/watch?v=20sqlQSdye4)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
