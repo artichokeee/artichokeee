@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Разбор резюме от подписчиков &lpar;QA, тестировщик&rpar;](https://www.youtube.com/watch?v=kFk5wXAaoCw)
 - [Как оформляют в штат в айти? #войтивайти](https://www.youtube.com/watch?v=Y2Xw0F4xeiA)
 - [Как пройти испытательный срок?](https://www.youtube.com/watch?v=82jogTmRyTg)
 - [Импорт, экспорт данных для тестировщика. Операторы HAVING и UNION](https://www.youtube.com/watch?v=-rI8Swa35Pw)
 - [КАКИЕ НАВЫКИ ДОЛЖНЫ БЫТЬ У УСПЕШНОГО КАНДИДАТА? #войтивайти](https://www.youtube.com/watch?v=K2RBGSPjzdc)
-- [КАК СТАТЬ МИДДЛОМ ЗА 6 НЕДЕЛЬ? + накрутка опыта в IT](https://www.youtube.com/watch?v=bUBTrHmJ2t0)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
