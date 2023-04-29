@@ -7,7 +7,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Разбор резюме от подписчиков &lpar;QA, тестировщик&rpar;](https://www.youtube.com/watch?v=kFk5wXAaoCw)
+- [Разбор резюме тестировщиков, QA Engineer](https://www.youtube.com/watch?v=kFk5wXAaoCw)
 - [Как оформляют в штат в айти? #войтивайти](https://www.youtube.com/watch?v=Y2Xw0F4xeiA)
 - [Как пройти испытательный срок?](https://www.youtube.com/watch?v=82jogTmRyTg)
 - [Импорт, экспорт данных для тестировщика. Операторы HAVING и UNION](https://www.youtube.com/watch?v=-rI8Swa35Pw)
