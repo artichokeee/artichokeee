@@ -7,7 +7,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Вопросы с реальных собеседований для тестировщиков &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=cEq5OIHelCo)
+- [Вопросы с реальных собеседований для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=cEq5OIHelCo)
 - [Вопросы на собеседовании тестировщиков &lpar;Junior QA&rpar; от менеджеров](https://www.youtube.com/watch?v=Ew9hUAZkBr8)
 - [Разбор резюме тестировщиков, QA Engineer](https://www.youtube.com/watch?v=kFk5wXAaoCw)
 - [Как оформляют в штат в айти? #войтивайти](https://www.youtube.com/watch?v=Y2Xw0F4xeiA)
