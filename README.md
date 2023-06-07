@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Стажировка, поиск работы, собеседование для тестировщика в 2023](https://www.youtube.com/watch?v=2Kd4nnMupjk)
 - [TEST IT ЭТО ЗАМЕНА TESTRAIL? Обзор функций](https://www.youtube.com/watch?v=TInzuFHtFmM)
 - [Вопросы с реальных собеседований для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=cEq5OIHelCo)
 - [Вопросы на собеседовании тестировщиков &lpar;Junior QA&rpar; от менеджеров](https://www.youtube.com/watch?v=Ew9hUAZkBr8)
 - [Разбор резюме тестировщиков, QA Engineer](https://www.youtube.com/watch?v=kFk5wXAaoCw)
-- [Как оформляют в штат в айти? #войтивайти](https://www.youtube.com/watch?v=Y2Xw0F4xeiA)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
