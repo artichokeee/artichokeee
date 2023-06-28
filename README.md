@@ -7,7 +7,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Как джунам мануальным тестировщикам найти работу](https://www.youtube.com/watch?v=v_qFEI5dIQg)
+- [Как джунам тестировщикам найти работу](https://www.youtube.com/watch?v=v_qFEI5dIQg)
 - [Мифы о тестировании ПО, про которые говорят все курсы](https://www.youtube.com/watch?v=1wwmoIxzwqw)
 - [Стажировка, поиск работы, собеседование для тестировщика в 2023](https://www.youtube.com/watch?v=2Kd4nnMupjk)
 - [TEST IT ЭТО ЗАМЕНА TESTRAIL? Обзор функций](https://www.youtube.com/watch?v=TInzuFHtFmM)
