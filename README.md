@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Тестировщик с нуля 2023. Полный курс для старта](https://www.youtube.com/watch?v=7Xd_l4VlBtg)
 - [Самые популярные вопросы на интервью тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=-N2s0FrwVQ8)
 - [Лучший ресурс для поиска работы в США и ЕС](https://www.youtube.com/watch?v=-rjJ2hGHVE4)
 - [ГДЕ УЗНАТЬ ЗАРПЛАТУ ТЕСТИРОВЩИКОВ?](https://www.youtube.com/watch?v=3aQ_10njG-8)
 - [Как джунам тестировщикам найти работу](https://www.youtube.com/watch?v=v_qFEI5dIQg)
-- [Мифы о тестировании ПО, про которые говорят все курсы](https://www.youtube.com/watch?v=1wwmoIxzwqw)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
