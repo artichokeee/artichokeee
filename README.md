@@ -7,9 +7,9 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое профессиональное образование в IT?](https://www.youtube.com/watch?v=lGi_wwojdTM)
 - [Что такое пирамида тестирования. Часть 2](https://www.youtube.com/watch?v=dzeuaedaosU)
 - [Что такое пирамида тестирования. Часть 1](https://www.youtube.com/watch?v=0JWedaEhSyM)
-- [Что такое профессиональное образование в IT?](https://www.youtube.com/watch?v=lGi_wwojdTM)
 - [Самые популярные вопросы на интервью тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=-N2s0FrwVQ8)
 - [Лучший ресурс для поиска работы в США и ЕС](https://www.youtube.com/watch?v=-rjJ2hGHVE4)
 <!-- YOUTUBE:END -->
