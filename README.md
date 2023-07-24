@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Решаем тестовые задания для начинающих тестировщиков в прямом эфире](https://www.youtube.com/watch?v=wCX4WRrnBCs)
 - [БЕСПЛАТНАЯ ПРАКТИКА ДЛЯ ТЕСТИРОВЩИКА #shorts](https://www.youtube.com/watch?v=gnnO56TQDek)
 - [Что такое профессиональное образование в IT?](https://www.youtube.com/watch?v=lGi_wwojdTM)
 - [Что такое пирамида тестирования. Часть 2 #shorts](https://www.youtube.com/watch?v=dzeuaedaosU)
 - [Что такое пирамида тестирования. Часть 1 #shorts](https://www.youtube.com/watch?v=0JWedaEhSyM)
-- [Самые популярные вопросы на интервью тестировщика &lpar;QA Engineer&rpar; #shorts](https://www.youtube.com/watch?v=-N2s0FrwVQ8)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
