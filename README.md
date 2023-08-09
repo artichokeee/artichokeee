@@ -7,7 +7,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Тестировщик с нуля. Курсы Stepik и Udemy](https://www.youtube.com/watch?v=1OQ43web7oM)
+- [Тестирование ПО с нуля. Бесплатный курс на Stepik. Обновленный курс на Udemy](https://www.youtube.com/watch?v=1OQ43web7oM)
 - [Как я стал тестировщиком? Часть 2 #shorts](https://www.youtube.com/watch?v=YpteyDHFqoQ)
 - [КАК Я СТАЛ ТЕСТИРОВЩИКОМ? Ч1 #shorts](https://www.youtube.com/watch?v=t5CuHnM96Tg)
 - [БЕСПЛАТНАЯ ПРАКТИКА ДЛЯ ТЕСТИРОВЩИКА #shorts](https://www.youtube.com/watch?v=gnnO56TQDek)
