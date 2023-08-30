@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Тестировщик от А до Я. История одного QA Engineer](https://www.youtube.com/watch?v=D4pQ0D6HH_0)
 - [ОБУЧЕНИЮ НА ТЕСТИРОВЩИКА КОНЕЦ?!!! Проблемы школ и курсов](https://www.youtube.com/watch?v=ZhHt3QF5cts)
 - [Решаем тестовые задания для начинающих тестировщиков в прямом эфире](https://www.youtube.com/watch?v=aYx8_yQdcs4)
 - [5 СПОСОБОВ ПОВЫСИТЬ АВТОРИТЕТ ТЕСТИРОВЩИКА В КОМАНДЕ. Ч2 #shorts](https://www.youtube.com/watch?v=Y7-bqpBaQhg)
 - [5 СПОСОБОВ ПОВЫСИТЬ АВТОРИТЕТ ТЕСТИРОВЩИКА В КОМАНДЕ. Ч1 #shorts](https://www.youtube.com/watch?v=iaZVKGpOn2c)
-- [Тестирование ПО с нуля. Бесплатный курс на Stepik. Платный курс на Udemy](https://www.youtube.com/watch?v=1OQ43web7oM)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
