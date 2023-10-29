@@ -27,7 +27,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [НЕТВОРКИНГ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
+- [НЕТВОРКИНГ В АЙТИ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
 - [Тестировщик от А до Я. История одного QA Engineer](https://www.youtube.com/watch?v=D4pQ0D6HH_0)
 - [ОБУЧЕНИЮ НА ТЕСТИРОВЩИКА КОНЕЦ?!!! Проблемы школ и курсов](https://www.youtube.com/watch?v=ZhHt3QF5cts)
 - [Решаем тестовые задания для начинающих тестировщиков в прямом эфире](https://www.youtube.com/watch?v=aYx8_yQdcs4)
