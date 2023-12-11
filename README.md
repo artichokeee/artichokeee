@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Bash для тестировщика &lpar;QA Engineer&rpar;. Полный курс](https://www.youtube.com/watch?v=CVJw3rCw_Qc)
 - [Разбор резюме тестировщиков с хедхантера](https://www.youtube.com/watch?v=FnK379DsOsk)
 - [КАК ПРОЙТИ ИСПЫТАТЕЛЬНЫЙ СРОК?](https://www.youtube.com/watch?v=Gz3F48tc8nk)
 - [Тестировщик с нуля / Урок 0. Как стать тестировщиком за один курс?](https://www.youtube.com/watch?v=yvPtNCvx_jM)
 - [НЕТВОРКИНГ В АЙТИ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
-- [Тестировщик от А до Я. История одного QA Engineer](https://www.youtube.com/watch?v=D4pQ0D6HH_0)
 <!-- YOUTUBE:END -->
 
 ---
