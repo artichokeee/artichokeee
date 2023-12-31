@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [🎄Новогоднее обращение к тестировщикам #shorts #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=N-Rm6cBNWZQ)
 - [Как стать тестировщиком в 2024 году](https://www.youtube.com/watch?v=5BKVb4qGuwM)
 - [Bash для тестировщика &lpar;QA Engineer&rpar;. Полный курс](https://www.youtube.com/watch?v=CVJw3rCw_Qc)
 - [Разбор резюме тестировщиков с хедхантера](https://www.youtube.com/watch?v=FnK379DsOsk)
 - [КАК ПРОЙТИ ИСПЫТАТЕЛЬНЫЙ СРОК?](https://www.youtube.com/watch?v=Gz3F48tc8nk)
-- [Тестировщик с нуля / Урок 0. Как стать тестировщиком за один курс?](https://www.youtube.com/watch?v=yvPtNCvx_jM)
 <!-- YOUTUBE:END -->
 
 ---
