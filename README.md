@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [С ЧЕГО НАЧАТЬ ОБУЧЕНИЕ ТЕСТИРОВЩИКОМ? #shorts #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=pUEaVP_0gS0)
+- [КАК НАЧАТЬ УЧИТЬСЯ ТЕСТИРОВЩИКУ? #shorts #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=pUEaVP_0gS0)
 - [ЧТО ТАКОЕ РЕГРЕССИОННОЕ ТЕСТИРОВАНИЕ И РЕТЕСТ? #shorts](https://www.youtube.com/watch?v=4oqneWmTdYw)
 - [САМАЯ ГЛАВНАЯ ОШИБКА ТЕСТИРОВЩИКА #shorts](https://www.youtube.com/watch?v=9MjjEX8ihk0)
 - [О чем спросить на собеседовании в IT компанию? Главные ВОПРОСЫ на ИНТЕРВЬЮ в айти](https://www.youtube.com/watch?v=uvw2N1Y2Wwc)
