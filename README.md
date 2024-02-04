@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [ТОП 3 СОВЕТА ДЛЯ ЭФФЕКТИВНОГО САМООБУЧЕНИЯ #shorts](https://www.youtube.com/watch?v=wNhKfvwE_ig)
 - [ТЕСТИРОВАНИЕ ЛОКАЛИЗАЦИИ И ИНТЕРНАЦИОНАЛИЗАЦИИ. РАЗНИЦА И ОТЛИЧИЯ #тестировщикснуля #shorts](https://www.youtube.com/watch?v=YQjYBaq6hj4)
 - [ЧТО ВКЛЮЧАТЬ В РЕГРЕССИОННОЕ ТЕСТИРОВАНИЕ? #тестировщик #тестировщикснуля #shorts](https://www.youtube.com/watch?v=ws_giXNx7-8)
 - [КАК НАЧАТЬ УЧИТЬСЯ ТЕСТИРОВЩИКУ? #shorts #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=pUEaVP_0gS0)
 - [ЧТО ТАКОЕ РЕГРЕССИОННОЕ ТЕСТИРОВАНИЕ И РЕТЕСТ? #shorts](https://www.youtube.com/watch?v=4oqneWmTdYw)
-- [САМАЯ ГЛАВНАЯ ОШИБКА ТЕСТИРОВЩИКА #shorts](https://www.youtube.com/watch?v=9MjjEX8ihk0)
 <!-- YOUTUBE:END -->
 
 ---
