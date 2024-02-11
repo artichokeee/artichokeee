@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Тестовые окружения для тестировщика: Local, Dev, Stage, Prod](https://www.youtube.com/watch?v=ZdA36kTp1nA)
 - [ПОЧЕМУ АВТОМАТИЗАЦИЯ ТЕСТИРОВАНИЯ НЕ РАБОТАЕТ? #тестировщик #shorts #автоматизация](https://www.youtube.com/watch?v=_N-lTkQhusA)
 - [ЧТО ПРОИСХОДИТ ПОСЛЕ ОТПРАВКИ URL В БРАУЗЕРЕ? #тестировщик #тестировщикснуля #shorts](https://www.youtube.com/watch?v=UNnkbH0ZVjM)
 - [ТОП 3 СОВЕТА ДЛЯ ЭФФЕКТИВНОГО САМООБУЧЕНИЯ #shorts](https://www.youtube.com/watch?v=wNhKfvwE_ig)
 - [ТЕСТИРОВАНИЕ ЛОКАЛИЗАЦИИ И ИНТЕРНАЦИОНАЛИЗАЦИИ. РАЗНИЦА И ОТЛИЧИЯ #тестировщикснуля #shorts](https://www.youtube.com/watch?v=YQjYBaq6hj4)
-- [ЧТО ВКЛЮЧАТЬ В РЕГРЕССИОННОЕ ТЕСТИРОВАНИЕ? #тестировщик #тестировщикснуля #shorts](https://www.youtube.com/watch?v=ws_giXNx7-8)
 <!-- YOUTUBE:END -->
 
 ---
