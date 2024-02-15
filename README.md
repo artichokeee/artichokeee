@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [КАК ФОРМИРОВАТЬ ФЕРМУ УСТРОЙСТВ ДЛЯ МОБИЛЬНОГО ТЕСТИРОВАНИЯ? #тестировщик #тестировщикснуля #shorts](https://www.youtube.com/watch?v=f7smYpwOeGQ)
 - [ГДЕ БРАТЬ ПРАКТИКУ ТЕСТИРОВЩИКУ? #тестировщик  #тестировщикснуля #shorts](https://www.youtube.com/watch?v=mbN9aT6IY8c)
 - [Тестовые окружения для тестировщика: Local, Dev, Stage, Prod](https://www.youtube.com/watch?v=ZdA36kTp1nA)
 - [ПОЧЕМУ АВТОМАТИЗАЦИЯ ТЕСТИРОВАНИЯ НЕ РАБОТАЕТ? #тестировщик #shorts #автоматизация](https://www.youtube.com/watch?v=_N-lTkQhusA)
 - [ЧТО ПРОИСХОДИТ ПОСЛЕ ОТПРАВКИ URL В БРАУЗЕРЕ? #тестировщик #тестировщикснуля #shorts](https://www.youtube.com/watch?v=UNnkbH0ZVjM)
-- [ТОП 3 СОВЕТА ДЛЯ ЭФФЕКТИВНОГО САМООБУЧЕНИЯ #shorts](https://www.youtube.com/watch?v=wNhKfvwE_ig)
 <!-- YOUTUBE:END -->
 
 ---
