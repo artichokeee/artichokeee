@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Простой тест для будущих тестировщиков #shorts #тестировщикснуля](https://www.youtube.com/watch?v=hskyIIbliO0)
 - [Что такое клиент-серверная архитектура? #shorts #войтивайти](https://www.youtube.com/watch?v=6a4httmm6x0)
 - [Какие бывают тестировщики? Куда развиваться? #shorts](https://www.youtube.com/watch?v=GkVuql-vCsU)
 - [КАК ФОРМИРОВАТЬ ФЕРМУ УСТРОЙСТВ ДЛЯ МОБИЛЬНОГО ТЕСТИРОВАНИЯ? #тестировщик #тестировщикснуля #shorts](https://www.youtube.com/watch?v=f7smYpwOeGQ)
 - [ГДЕ БРАТЬ ПРАКТИКУ ТЕСТИРОВЩИКУ? #тестировщик  #тестировщикснуля #shorts](https://www.youtube.com/watch?v=mbN9aT6IY8c)
-- [Тестовые окружения для тестировщика: Local, Dev, Stage, Prod](https://www.youtube.com/watch?v=ZdA36kTp1nA)
 <!-- YOUTUBE:END -->
 
 ---
