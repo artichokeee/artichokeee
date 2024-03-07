@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое балансировщики нагрузки? #shorts #тестировщик #войтивайти](https://www.youtube.com/watch?v=a96wgJYJzyE)
 - [ALLURE TESTOPS – большой обзор функций](https://www.youtube.com/watch?v=grVtLqvcT3Q)
 - [Что такое база данных: БД и СУБД?](https://www.youtube.com/watch?v=l98q4OtiG14)
 - [Простой тест для будущих тестировщиков #shorts #тестировщикснуля](https://www.youtube.com/watch?v=hskyIIbliO0)
 - [Что такое клиент-серверная архитектура? #shorts #войтивайти](https://www.youtube.com/watch?v=6a4httmm6x0)
-- [Какие бывают тестировщики? Куда развиваться? #shorts](https://www.youtube.com/watch?v=GkVuql-vCsU)
 <!-- YOUTUBE:END -->
 
 ---
