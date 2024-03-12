@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [ТАК ТЫ ТОЧНО ЗАПОМНИШЬ ТЕОРИЮ ТЕСТИРОВАНИЯ](https://www.youtube.com/watch?v=o7Q8oIfj5JA)
+- [КАК ЗАПОМНИТЬ ТЕОРИЮ ТЕСТИРОВАНИЯ ЧЕРЕЗ QUIZLET](https://www.youtube.com/watch?v=o7Q8oIfj5JA)
 - [Я написал веб приложение в ChatGPT за неделю](https://www.youtube.com/watch?v=BrDs-sO-M7o)
 - [Что такое балансировщики нагрузки? #shorts #тестировщик #войтивайти](https://www.youtube.com/watch?v=a96wgJYJzyE)
 - [ALLURE TESTOPS – большой обзор функций](https://www.youtube.com/watch?v=grVtLqvcT3Q)
