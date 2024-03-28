@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Что такое STLC? #shorts #тестировщик #войтивайти](https://www.youtube.com/watch?v=39bkivFfTNs)
+- [Что такое жизненный цикл тестирования STLC? #shorts #тестировщик #войтивайти](https://www.youtube.com/watch?v=39bkivFfTNs)
 - [КАК ЭФФЕКТИВНО ОБЩАТЬСЯ с разработчиками? #shorts #тестировщик #войтивайти](https://www.youtube.com/watch?v=pN0u5KwCq9E)
 - [Что такое SDLC? shorts #тестировщик #войтивайти](https://www.youtube.com/watch?v=RFTAmGOqnto)
 - [ПРЕИМУЩЕСТВА РАБОТЫ ТЕСТИРОВЩИКОМ #войтивайти #shorts #тестировщик](https://www.youtube.com/watch?v=9Cgtw8U6qLo)
