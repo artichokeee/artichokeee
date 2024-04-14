@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое чек-лист? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=075VsWyA6UQ)
 - [Что такое отчет о дефекте? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=YSAum-2snkE)
 - [Что такое 3 AMIGOS? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=HB0OkynXtUQ)
 - [Ошибки тестировщика и как с ними бороться #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=H0-cXO9LO9g)
 - [Что такое bug triage, или сортировка багов? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=w9zeMR0RqXU)
-- [Что делает тестировщик веб-приложений? #тестировщик #войтивайти #тестировщикснуля  #shorts](https://www.youtube.com/watch?v=BHNscdj1WsU)
 <!-- YOUTUBE:END -->
 
 ---
