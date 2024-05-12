@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое тест-план и тестовая стратегия? #войтивайти #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=ArACCNSg5qo)
 - [Что такое отчет по результатам тестирования? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=A6TYRB5rYYc)
 - [Что делает мобильный тестировщик? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=Sej5t_FOnS8)
 - [Что такое тест-кейсы? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=WNEXpJGleSA)
 - [Что такое чек-лист? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=075VsWyA6UQ)
-- [Что такое отчет о дефекте? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=YSAum-2snkE)
 <!-- YOUTUBE:END -->
 
 ---
