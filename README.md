@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [CI/CD для тестировщика + Jenkins](https://www.youtube.com/watch?v=cNwj2m3-Z4A)
 - [Собеседование на тестировщика &lpar;Junior QA&rpar;. 60 ВОПРОСОВ И ОТВЕТОВ! 24/7](https://www.youtube.com/watch?v=06eQhnvGZDg)
 - [Что такое тест-план и тестовая стратегия? #войтивайти #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=ArACCNSg5qo)
 - [Что такое отчет по результатам тестирования? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=A6TYRB5rYYc)
 - [Что делает мобильный тестировщик? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=Sej5t_FOnS8)
-- [Что такое тест-кейсы? #войтивайти #тестировщик #shorts](https://www.youtube.com/watch?v=WNEXpJGleSA)
 <!-- YOUTUBE:END -->
 
 ---
