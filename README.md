@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [ТОП 30 ВОПРОСОВ. Собеседование на тестировщика &lpar;Junior QA&rpar;. Теория тестирования](https://www.youtube.com/watch?v=FLdiK75otrk)
+- [ТОП 30 ВОПРОСОВ. Собеседование на тестировщика. Теория тестирования](https://www.youtube.com/watch?v=FLdiK75otrk)
 - [CI/CD для тестировщика + Jenkins](https://www.youtube.com/watch?v=cNwj2m3-Z4A)
 - [Собеседование на тестировщика &lpar;Junior QA&rpar;. 60 ВОПРОСОВ И ОТВЕТОВ! 24/7](https://www.youtube.com/watch?v=06eQhnvGZDg)
 - [Что такое тест-план и тестовая стратегия? #войтивайти #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=ArACCNSg5qo)
