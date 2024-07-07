@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Ответы на вопросы тестировщика](https://www.youtube.com/watch?v=8G8KCTEU7p8)
 - [Тестовая документация для тестировщика](https://www.youtube.com/watch?v=LIpXj68VVCo)
 - [Приглашение на хакатон ✨raptors.dev✨ #хакатон #shorts](https://www.youtube.com/watch?v=SXMt3rncbM0)
 - [ТЕСТИРОВЩИК - ЭТО ДНО 🗿](https://www.youtube.com/watch?v=4G9fIPbQp8Q)
 - [Техники тест-дизайна. Ответы на собеседовании тестировщика](https://www.youtube.com/watch?v=x-6g8Poybk8)
-- [ТОП 30 ВОПРОСОВ. Собеседование на тестировщика. Теория тестирования](https://www.youtube.com/watch?v=FLdiK75otrk)
 <!-- YOUTUBE:END -->
 
 ---
