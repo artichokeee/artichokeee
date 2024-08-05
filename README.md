@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Замедление Youtube: что будет с каналом?](https://www.youtube.com/watch?v=hFdXVymYGqg)
 - [Как закрыть критерий по визе таланта «Ассоциации» для айтишника? #визаталантовсша](https://www.youtube.com/watch?v=BRABIB0VNwc)
 - [Ответы на вопросы тестировщику](https://www.youtube.com/watch?v=8G8KCTEU7p8)
 - [ДЕЛАЙ ЭТО, ЧТОБЫ НЕ ПОТЕРЯТЬ БАГ РЕПОРТ #shorts #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=RMh7TqS7sA4)
 - [Тестовая документация для тестировщика](https://www.youtube.com/watch?v=LIpXj68VVCo)
-- [Приглашение на хакатон ✨raptors.dev✨ #хакатон #shorts](https://www.youtube.com/watch?v=SXMt3rncbM0)
 <!-- YOUTUBE:END -->
 
 ---
