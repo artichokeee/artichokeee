@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Разбор чек-листов, тест-кейсов и отчетов о дефекте от подписчиков](https://www.youtube.com/watch?v=mPhFSOU1XBY)
 - [Накрутка опыта в IT: мое мнение  #qaкурсы #тестировщикснуля](https://www.youtube.com/watch?v=biuDnNXPlBU)
 - [QA Engineer From Scratch FULL AUDIO ENGLISH COURSE](https://www.youtube.com/watch?v=XV_IJY5jpy0)
 - [Smoke и Sanity тестирование: разница #тестировщик #тестировщикпо #тестирование](https://www.youtube.com/watch?v=rSIA_6awHEo)
 - [Замедление Youtube: что будет с каналом?](https://www.youtube.com/watch?v=hFdXVymYGqg)
-- [Как закрыть критерий по визе таланта «Ассоциации» для айтишника? #визаталантовсша](https://www.youtube.com/watch?v=BRABIB0VNwc)
 <!-- YOUTUBE:END -->
 
 ---
