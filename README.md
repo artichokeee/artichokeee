@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что делает тестировщик автоматизатор простыми словами?  #qaкурсы #тестировщикснуля #войтивайти](https://www.youtube.com/watch?v=jVDuA12J8bc)
 - [Тестовая документация для тестировщика. Типичные ошибки](https://www.youtube.com/watch?v=AF2R3c37D2o)
 - [НИКОГДА НЕ ТЕСТИРУЙ НА ПРОДЕ #тестированиепо #тестировщикснул #qaкурсы](https://www.youtube.com/watch?v=UtunWpYDSqA)
 - [Разбор чек-листов, тест-кейсов и отчетов о дефекте от подписчиков](https://www.youtube.com/watch?v=mPhFSOU1XBY)
 - [Накрутка опыта в IT: мое мнение  #qaкурсы #тестировщикснуля](https://www.youtube.com/watch?v=biuDnNXPlBU)
-- [QA Engineer From Scratch FULL AUDIO ENGLISH COURSE](https://www.youtube.com/watch?v=XV_IJY5jpy0)
 <!-- YOUTUBE:END -->
 
 ---
