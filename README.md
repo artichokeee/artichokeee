@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Ресурсы для Тестировщика на Английском Языке #тестировщикснуля #тестировщикпо #artsiomrusau #shorts](https://www.youtube.com/watch?v=4s2719fqnNg)
 - [Всегда рад новым подписчикам на Artsiom Rusau QA Life - канал для тестировщиков!](https://www.youtube.com/watch?v=z3I7dHmApZ4)
 - [Что такое идентификация, аутентификация и авторизация?  #qaкурсы #тестировщикснуля #тестированиепо](https://www.youtube.com/watch?v=lodvbXiX6vA)
 - [Что делает тестировщик автоматизатор простыми словами?  #qaкурсы #тестировщикснуля #войтивайти](https://www.youtube.com/watch?v=jVDuA12J8bc)
 - [Тестовая документация для тестировщика. Типичные ошибки](https://www.youtube.com/watch?v=AF2R3c37D2o)
-- [НИКОГДА НЕ ТЕСТИРУЙ НА ПРОДЕ #тестированиепо #тестировщикснул #qaкурсы](https://www.youtube.com/watch?v=UtunWpYDSqA)
 <!-- YOUTUBE:END -->
 
 ---
