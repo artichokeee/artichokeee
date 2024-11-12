@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое локализация дефекта?](https://www.youtube.com/watch?v=KiU-wAtsXpk)
 - [Идеальный отдел тестирования](https://www.youtube.com/watch?v=7rflj_bbHeQ)
 - [Автоматизация тестирования. С чего начать и как перейти?](https://www.youtube.com/watch?v=88X7pJFn7-I)
 - [Ресурсы для Тестировщика на Английском Языке #тестировщикснуля #тестировщикпо #artsiomrusau #shorts](https://www.youtube.com/watch?v=4s2719fqnNg)
 - [Всегда рад новым подписчикам на Artsiom Rusau QA Life - канал для тестировщиков!](https://www.youtube.com/watch?v=z3I7dHmApZ4)
-- [Что такое идентификация, аутентификация и авторизация?  #qaкурсы #тестировщикснуля #тестированиепо](https://www.youtube.com/watch?v=lodvbXiX6vA)
 <!-- YOUTUBE:END -->
 
 ---
