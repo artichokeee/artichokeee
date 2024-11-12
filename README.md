@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Что такое локализация дефекта?](https://www.youtube.com/watch?v=KiU-wAtsXpk)
+- [Что такое локализация дефекта или бага?](https://www.youtube.com/watch?v=KiU-wAtsXpk)
 - [Идеальный отдел тестирования](https://www.youtube.com/watch?v=7rflj_bbHeQ)
 - [Автоматизация тестирования. С чего начать и как перейти?](https://www.youtube.com/watch?v=88X7pJFn7-I)
 - [Ресурсы для Тестировщика на Английском Языке #тестировщикснуля #тестировщикпо #artsiomrusau #shorts](https://www.youtube.com/watch?v=4s2719fqnNg)
