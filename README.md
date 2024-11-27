@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Как стать лидом QA из миддла?](https://www.youtube.com/watch?v=ZHTK5wkytKc)
 - [Как управлять макетами и дизайном на проекте?](https://www.youtube.com/watch?v=h1xW3zfasbE)
 - [Профориентация на тестировщика. Смогу ли я стать тестировщиком?](https://www.youtube.com/watch?v=huhJBZ6PDRA)
 - [Что такое локализация дефекта или бага?](https://www.youtube.com/watch?v=KiU-wAtsXpk)
 - [Идеальный отдел тестирования](https://www.youtube.com/watch?v=7rflj_bbHeQ)
-- [Автоматизация тестирования. С чего начать и как перейти?](https://www.youtube.com/watch?v=88X7pJFn7-I)
 <!-- YOUTUBE:END -->
 
 ---
