@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Собеседование на тестировщика 2025. Что будут спрашивать? Опрос реальных Junior QA](https://www.youtube.com/watch?v=q0SDcoyxg2c)
+- [Собеседование на тестировщика 2025. Что будут спрашивать? Вопросы от реальных Junior QA](https://www.youtube.com/watch?v=q0SDcoyxg2c)
 - [QA Advent 2024 - Адвент календарь для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=nDpNwTvZStg)
 - [Как стать лидом QA из миддла?](https://www.youtube.com/watch?v=ZHTK5wkytKc)
 - [Как управлять макетами и дизайном на проекте?](https://www.youtube.com/watch?v=h1xW3zfasbE)
