@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [5 шагов: как быстро протестировать графический интерфейс &lpar;GUI&rpar;?](https://www.youtube.com/watch?v=fumIbhZB04M)
 - [Инфоцыган ли я? Безусловно!](https://www.youtube.com/watch?v=0gBri6MEZn8)
 - [Как не заводить дубликаты тестовой документации?](https://www.youtube.com/watch?v=bF8o9J_C0bk)
 - [Как стать тестировщиком в 2025. Тестировщик с нуля 2025](https://www.youtube.com/watch?v=4RiliWEiUzA)
 - [Собеседование на тестировщика 2025. Что будут спрашивать? Вопросы от реальных Junior QA](https://www.youtube.com/watch?v=q0SDcoyxg2c)
-- [QA Advent 2024 - Адвент календарь для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=nDpNwTvZStg)
 <!-- YOUTUBE:END -->
 
 ---
