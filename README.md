@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Почему тебе не надо идти в тестирование?](https://www.youtube.com/watch?v=YqP1BfupFMw)
 - [Как успешно пройти собеседование на тестировщика?](https://www.youtube.com/watch?v=zEJ97R31-LY)
 - [5 шагов: как быстро протестировать графический интерфейс &lpar;GUI&rpar;?](https://www.youtube.com/watch?v=fumIbhZB04M)
 - [Инфоцыган ли я? Безусловно!](https://www.youtube.com/watch?v=0gBri6MEZn8)
 - [Как не заводить дубликаты тестовой документации?](https://www.youtube.com/watch?v=bF8o9J_C0bk)
-- [Как стать тестировщиком в 2025. Тестировщик с нуля 2025](https://www.youtube.com/watch?v=4RiliWEiUzA)
 <!-- YOUTUBE:END -->
 
 ---
