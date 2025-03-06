@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [ВОЙТИ В АЙТИ: как выбрать курсы?](https://www.youtube.com/watch?v=X5eXxAgKsKY)
 - [#2 Postman для тестировщика 2.0 / Swagger / GET и POST](https://www.youtube.com/watch?v=WKjwYt5wASM)
 - [#1 Postman для тестировщика 2.0 / Настройка и интерфейс](https://www.youtube.com/watch?v=oRqnMyv7Mkk)
 - [Почему тебе не надо идти в тестирование?](https://www.youtube.com/watch?v=YqP1BfupFMw)
 - [Как успешно пройти собеседование на тестировщика?](https://www.youtube.com/watch?v=zEJ97R31-LY)
-- [5 шагов: как быстро протестировать графический интерфейс &lpar;GUI&rpar;?](https://www.youtube.com/watch?v=fumIbhZB04M)
 <!-- YOUTUBE:END -->
 
 ---
