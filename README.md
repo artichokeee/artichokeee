@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#6 Postman для тестировщика 2.0 / Перехват трафика HTTP и HTTPs](https://www.youtube.com/watch?v=Dl5Tr6P2PMA)
 - [#5 Postman для тестировщика 2.0 / Тестовые данные в CSV и JSON](https://www.youtube.com/watch?v=A-9ZZVPIB_g)
 - [#4 Postman для тестировщика 2.0/  Простые автотесты](https://www.youtube.com/watch?v=r4Kz5klPbvs)
 - [#3 Postman для тестировщика 2.0 / Переменные и окружения](https://www.youtube.com/watch?v=qVpk3KvSxJU)
 - [ВОЙТИ В АЙТИ: как выбрать курсы?](https://www.youtube.com/watch?v=X5eXxAgKsKY)
-- [#2 Postman для тестировщика 2.0 / Swagger / GET и POST](https://www.youtube.com/watch?v=WKjwYt5wASM)
 <!-- YOUTUBE:END -->
 
 ---
