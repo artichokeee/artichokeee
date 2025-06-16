@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [7 принципов тестирования, которые должен знать каждый!](https://www.youtube.com/watch?v=rIcMoqU51iQ)
 - [5 лет блогу Artsiom Rusau QA Life!!!](https://www.youtube.com/watch?v=5LP5V57z-q0)
 - [Где реально практиковаться тестировщику? Показываю свои тренажёры с автопроверкой](https://www.youtube.com/watch?v=bJij6-K-l64)
 - [#8 Postman для тестировщика 2.0 / Типы авторизации и CURL](https://www.youtube.com/watch?v=X8LxhBdBe9w)
 - [#7 Postman для тестировщика 2.0 / Тестирование SOAP](https://www.youtube.com/watch?v=EUkaU-aeC4E)
-- [#6 Postman для тестировщика 2.0 / Перехват трафика HTTP и HTTPs](https://www.youtube.com/watch?v=Dl5Tr6P2PMA)
 <!-- YOUTUBE:END -->
 
 ---
