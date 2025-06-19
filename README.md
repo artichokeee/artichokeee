@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Методы борьбы с багами которые работают!](https://www.youtube.com/watch?v=2bN8ZGhyxGk)
+- [Парадокс пестицида. Методы борьбы с багами которые работают!](https://www.youtube.com/watch?v=2bN8ZGhyxGk)
 - [7 принципов тестирования, которые должен знать каждый!](https://www.youtube.com/watch?v=rIcMoqU51iQ)
 - [5 лет блогу Artsiom Rusau QA Life!!!](https://www.youtube.com/watch?v=5LP5V57z-q0)
 - [Где реально практиковаться тестировщику? Показываю свои тренажёры с автопроверкой](https://www.youtube.com/watch?v=bJij6-K-l64)
