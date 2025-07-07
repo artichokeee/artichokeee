@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Как стать тестировщиком с нуля? Самый полный курс по тестированию на Stepik](https://www.youtube.com/watch?v=Y1lAoUXK37w)
 - [Чем отличается тестирование от QC и QA? Узнай за 5 минут!](https://www.youtube.com/watch?v=wjedbepqVGo)
 - [Чем отличается отладка от тестирования? Узнай за минуту!](https://www.youtube.com/watch?v=kwpNh2GyBjU)
 - [Парадокс пестицида. Методы борьбы с багами которые работают!](https://www.youtube.com/watch?v=2bN8ZGhyxGk)
 - [7 принципов тестирования, которые должен знать каждый!](https://www.youtube.com/watch?v=rIcMoqU51iQ)
-- [5 лет блогу Artsiom Rusau QA Life!!!](https://www.youtube.com/shorts/5LP5V57z-q0)
 <!-- YOUTUBE:END -->
 
 ---
