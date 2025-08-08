@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [QASE - обзор TMS для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=P3HeSNKOstA)
 - [Какие бывают методы тестирования? Узнай за 3 минуты!](https://www.youtube.com/watch?v=W-MEELqUBus)
 - [Пирамида тестирования для начинающих — легко и понятно!](https://www.youtube.com/watch?v=fUu5x4F9sxg)
 - [Тестирование ПО с нуля. Самый полный курс по тестированию на Stepik](https://www.youtube.com/watch?v=Y1lAoUXK37w)
 - [Чем отличается тестирование от QC и QA? Узнай за 5 минут!](https://www.youtube.com/watch?v=wjedbepqVGo)
+- [Чем отличается отладка от тестирования? Узнай за минуту!](https://www.youtube.com/watch?v=kwpNh2GyBjU)
 <!-- YOUTUBE:END -->
 
 ---
