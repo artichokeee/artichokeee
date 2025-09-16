@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [В чём разница между валидацией и верификацией?](https://www.youtube.com/watch?v=HGSh9DEamRc)
 - [Тестирование для новичков: что такое Smoke и Sanity?](https://www.youtube.com/watch?v=Qsact5-j3S0)
 - [Какие бывают методы тестирования? Узнай за 3 минуты!](https://www.youtube.com/watch?v=W-MEELqUBus)
 - [Пирамида тестирования для начинающих — легко и понятно!](https://www.youtube.com/watch?v=fUu5x4F9sxg)
 - [Тестирование ПО с нуля. Самый полный курс по тестированию на Stepik](https://www.youtube.com/watch?v=Y1lAoUXK37w)
-- [Чем отличается тестирование от QC и QA? Узнай за 5 минут!](https://www.youtube.com/watch?v=wjedbepqVGo)
 <!-- YOUTUBE:END -->
 
 ---
