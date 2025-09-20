@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Локализация и интернационализация простыми словами!](https://www.youtube.com/watch?v=RDuZ3A4D8l4)
+- [Тестирование локализации и интернационализации простыми словами!](https://www.youtube.com/watch?v=RDuZ3A4D8l4)
 - [В чём разница между валидацией и верификацией?](https://www.youtube.com/watch?v=HGSh9DEamRc)
 - [Тестирование для новичков: что такое Smoke и Sanity?](https://www.youtube.com/watch?v=Qsact5-j3S0)
 - [Какие бывают методы тестирования? Узнай за 3 минуты!](https://www.youtube.com/watch?v=W-MEELqUBus)
