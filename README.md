@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Все роли в IT-команде простыми словами!](https://www.youtube.com/watch?v=jIAqpc96Jkk)
 - [Что такое нефункциональное тестирование простыми словами?](https://www.youtube.com/watch?v=HLZA8MM0WJw)
 - [Какие бывают типы тестирования? Узнай за 6 минут!](https://www.youtube.com/watch?v=1Ba7iyPHXiU)
 - [Тестирование локализации и интернационализации простыми словами!](https://www.youtube.com/watch?v=RDuZ3A4D8l4)
 - [В чём разница между валидацией и верификацией?](https://www.youtube.com/watch?v=HGSh9DEamRc)
-- [Тестирование для новичков: что такое Smoke и Sanity?](https://www.youtube.com/watch?v=Qsact5-j3S0)
 <!-- YOUTUBE:END -->
 
 ---
