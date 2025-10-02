@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что такое SDLC простыми словами!](https://www.youtube.com/watch?v=ZSj7u_tNblA)
 - [3 главные цели тестирования которые должен знать каждый](https://www.youtube.com/watch?v=btx0QQlbBS8)
 - [Как понять уровни тестирования за 5 минут?](https://www.youtube.com/watch?v=O8ZLT0OP4FE)
 - [Все роли в IT-команде простыми словами!](https://www.youtube.com/watch?v=jIAqpc96Jkk)
 - [Что такое нефункциональное тестирование простыми словами?](https://www.youtube.com/watch?v=HLZA8MM0WJw)
-- [Какие бывают типы тестирования? Узнай за 6 минут!](https://www.youtube.com/watch?v=1Ba7iyPHXiU)
 <!-- YOUTUBE:END -->
 
 ---
