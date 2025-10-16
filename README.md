@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Войти в айти через тестирование в 2025 году – миф или реальность?](https://www.youtube.com/shorts/a0GMXDFB_vI)
 - [Не бойтесь говорить о достижениях](https://www.youtube.com/shorts/-h62Fcm6G1k)
 - [Шпаргалки для тестировщика на сайте rusau.net](https://www.youtube.com/shorts/bMPmCuy_KSk)
 - [Хочу стать тестировщиком](https://www.youtube.com/shorts/y2pWYjeOr2M)
 - [Scrum и Kanban для тестировщика](https://www.youtube.com/watch?v=uUukaFwAkkQ)
-- [Что такое STLC и зачем он нужен?](https://www.youtube.com/watch?v=LQVEiZvnxmw)
 <!-- YOUTUBE:END -->
 
 ---
