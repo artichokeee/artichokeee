@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Совет для тебя: ищи ошибки в самом начале](https://www.youtube.com/shorts/u5gn9qVzz6U)
+- [Совет для тестировщика: ищи ошибки в самом начале](https://www.youtube.com/shorts/u5gn9qVzz6U)
 - [Почему вы не говорите о деньгах?](https://www.youtube.com/shorts/loHWF2jJ2PM)
 - [Войти в айти через тестирование в 2025 году – миф или реальность?](https://www.youtube.com/shorts/a0GMXDFB_vI)
 - [Не бойтесь говорить о достижениях](https://www.youtube.com/shorts/-h62Fcm6G1k)
