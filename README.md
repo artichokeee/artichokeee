@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Как обучаться эффективно на примере тестирования ПО](https://www.youtube.com/shorts/fopwH33LJpw)
+- [Как обучаться эффективно на тестировщика ПО](https://www.youtube.com/shorts/fopwH33LJpw)
 - [Совет для тестировщика: ищи ошибки в самом начале](https://www.youtube.com/shorts/u5gn9qVzz6U)
 - [Почему вы не говорите о деньгах?](https://www.youtube.com/shorts/loHWF2jJ2PM)
 - [Войти в айти через тестирование в 2025 году – миф или реальность?](https://www.youtube.com/shorts/a0GMXDFB_vI)
