@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Как QA и PM могут работать вместе?](https://www.youtube.com/watch?v=v8ZPvuxYqm8)
 - [Как обучаться эффективно на тестировщика ПО](https://www.youtube.com/shorts/fopwH33LJpw)
 - [Совет для тестировщика: ищи ошибки в самом начале](https://www.youtube.com/shorts/u5gn9qVzz6U)
 - [Почему вы не говорите о деньгах?](https://www.youtube.com/shorts/loHWF2jJ2PM)
 - [Войти в айти через тестирование в 2025 году – миф или реальность?](https://www.youtube.com/shorts/a0GMXDFB_vI)
-- [Не бойтесь говорить о достижениях](https://www.youtube.com/shorts/-h62Fcm6G1k)
 <!-- YOUTUBE:END -->
 
 ---
