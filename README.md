@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Это плохой курс по тестированию](https://www.youtube.com/shorts/igQ3L6GKK2E)
 - [Что делать, если страшно идти на собеседование?](https://www.youtube.com/shorts/ORN89T8Jjak)
 - [Моя целевая аудитория – начинающие тестировщики](https://www.youtube.com/shorts/425gia7_nnw)
 - [Как QA и PM могут работать вместе?](https://www.youtube.com/watch?v=v8ZPvuxYqm8)
 - [Как обучаться эффективно на тестировщика ПО](https://www.youtube.com/shorts/fopwH33LJpw)
-- [Совет для тестировщика: ищи ошибки в самом начале](https://www.youtube.com/shorts/u5gn9qVzz6U)
 <!-- YOUTUBE:END -->
 
 ---
