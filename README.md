@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Я инфоцыган. Пора признаться](https://www.youtube.com/shorts/CUGjU6nfSyM)
 - [Если ты не развиваешься, то работу не найдешь](https://www.youtube.com/shorts/6mACI6hlIis)
 - [Это плохой курс для тестировщика](https://www.youtube.com/shorts/igQ3L6GKK2E)
 - [Что делать, если страшно идти на собеседование?](https://www.youtube.com/shorts/ORN89T8Jjak)
 - [Моя целевая аудитория – начинающие тестировщики](https://www.youtube.com/shorts/425gia7_nnw)
-- [Как QA и PM могут работать вместе?](https://www.youtube.com/watch?v=v8ZPvuxYqm8)
 <!-- YOUTUBE:END -->
 
 ---
