@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Как пройти собеседование с рекрутером без стресса?](https://www.youtube.com/shorts/R-CmqjKIV4I)
 - [Заменит ли тестировщика ИИ?](https://www.youtube.com/shorts/_14K5AhN9Ew)
 - [Переработки в айти: за и против](https://www.youtube.com/shorts/NDomtjpcroY)
 - [Я инфоцыган. Пора признаться](https://www.youtube.com/shorts/CUGjU6nfSyM)
 - [Если ты не развиваешься, то работу не найдешь](https://www.youtube.com/shorts/6mACI6hlIis)
-- [Это плохой курс для тестировщика](https://www.youtube.com/shorts/igQ3L6GKK2E)
 <!-- YOUTUBE:END -->
 
 ---
