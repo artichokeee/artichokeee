@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Стоит ли обучаться на тестировщика в новом году?](https://www.youtube.com/shorts/H1-kAPS5Pd8)
 - [Курсы по тестированию 2025 с большой скидкой](https://www.youtube.com/shorts/Te2SWRDp1_A)
 - [Почему я не хочу обратно в найм тестировщиком?](https://www.youtube.com/shorts/MYQ_tfxTDh0)
 - [Как пройти собеседование с рекрутером без стресса?](https://www.youtube.com/shorts/R-CmqjKIV4I)
 - [Заменит ли тестировщика ИИ?](https://www.youtube.com/shorts/_14K5AhN9Ew)
-- [Переработки в айти: за и против](https://www.youtube.com/shorts/NDomtjpcroY)
 <!-- YOUTUBE:END -->
 
 ---
