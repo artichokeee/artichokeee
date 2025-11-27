@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Что делать если не знаешь ответ на собеседовании?](https://www.youtube.com/shorts/lONl6SQAGD0)
 - [Один тестировщик на проекте - это не приговор](https://www.youtube.com/shorts/TTAf1iq790o)
 - [Стоит ли обучаться на тестировщика в новом году?](https://www.youtube.com/shorts/H1-kAPS5Pd8)
 - [Курсы по тестированию 2025 с большой скидкой](https://www.youtube.com/shorts/Te2SWRDp1_A)
 - [Почему я не хочу обратно в найм тестировщиком?](https://www.youtube.com/shorts/MYQ_tfxTDh0)
-- [Как пройти собеседование с рекрутером без стресса?](https://www.youtube.com/shorts/R-CmqjKIV4I)
 <!-- YOUTUBE:END -->
 
 ---
