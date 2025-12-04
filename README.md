@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Одна теория тестирования для всех!](https://www.youtube.com/shorts/Rj-7c_LWYEY)
 - [Что делать, если ты не подходишь по вакансии на 100%?](https://www.youtube.com/shorts/y58qheKQNBU)
 - [Что делать если не знаешь ответ на собеседовании?](https://www.youtube.com/shorts/lONl6SQAGD0)
 - [Один тестировщик на проекте - это не приговор](https://www.youtube.com/shorts/TTAf1iq790o)
 - [Стоит ли обучаться на тестировщика в новом году?](https://www.youtube.com/shorts/H1-kAPS5Pd8)
-- [Почему я не хочу обратно в найм тестировщиком?](https://www.youtube.com/shorts/MYQ_tfxTDh0)
 <!-- YOUTUBE:END -->
 
 ---
