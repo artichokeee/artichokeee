@@ -28,7 +28,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Почему учиться тяжело?](https://www.youtube.com/shorts/GIIKI-sJv8I)
+- [Почему учиться на тестировщика тяжело?](https://www.youtube.com/shorts/GIIKI-sJv8I)
 - [Одна теория тестирования для всех!](https://www.youtube.com/shorts/Rj-7c_LWYEY)
 - [Что делать, если ты не подходишь по вакансии на 100%?](https://www.youtube.com/shorts/y58qheKQNBU)
 - [Что делать если не знаешь ответ на собеседовании?](https://www.youtube.com/shorts/lONl6SQAGD0)
