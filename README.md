@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Куда лучше не идти в тестировании?](https://www.youtube.com/shorts/mYKcmnrj2us)
 - [Гигиена в соцсетях, или как не сойти с ума от хейта?](https://www.youtube.com/shorts/JpdBlKRqwa4)
 - [Почему учиться на тестировщика тяжело?](https://www.youtube.com/shorts/GIIKI-sJv8I)
 - [Одна теория тестирования для всех!](https://www.youtube.com/shorts/Rj-7c_LWYEY)
 - [Что делать, если ты не подходишь по вакансии на 100%?](https://www.youtube.com/shorts/y58qheKQNBU)
-- [Что делать если не знаешь ответ на собеседовании?](https://www.youtube.com/shorts/lONl6SQAGD0)
 <!-- YOUTUBE:END -->
 
 ---
