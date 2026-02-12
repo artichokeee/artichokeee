@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Тиндер для тестировщика: выбери свой курс по тестированию!](https://www.youtube.com/shorts/k7pAh8ox2Hs)
 - [Ты неправильно пишешь тестовую документацию](https://www.youtube.com/shorts/FfpFKztGdbk)
 - [Хочешь научиться тестированию? Напиши свою программу](https://www.youtube.com/shorts/99lLCpJ3t3c)
 - [Бизнес всегда про деньги](https://www.youtube.com/shorts/BPAf5-hk0C8)
 - [Куда лучше не идти в тестировании?](https://www.youtube.com/shorts/mYKcmnrj2us)
-- [Гигиена в соцсетях, или как не сойти с ума от хейта?](https://www.youtube.com/shorts/JpdBlKRqwa4)
 <!-- YOUTUBE:END -->
 
 ---
