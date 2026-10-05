@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Я хочу вернуться…](https://www.youtube.com/shorts/fVjtomrYpUk)
 - [Rusau Learn: новая платформа для обучения тестировщиков. Почему это лучше обычных курсов?](https://www.youtube.com/watch?v=MtAJRpW18C8)
 - [Полный гайд: как тестировать REST API в Postman](https://www.youtube.com/watch?v=hc8r0P7mQWQ)
 - [Как стать тестировщиком в 2026 году: дорожная карта и что нужно знать новичку](https://www.youtube.com/watch?v=oEHW1FbN5A0)
 - [Тиндер для тестировщика: выбери свой курс по тестированию!](https://www.youtube.com/shorts/k7pAh8ox2Hs)
-- [Ты неправильно пишешь тестовую документацию](https://www.youtube.com/shorts/FfpFKztGdbk)
 <!-- YOUTUBE:END -->
 
 ---
