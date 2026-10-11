@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [QA Learn: твой первый шаг в мир тестирования #IT #тестирование #shorts](https://www.youtube.com/shorts/rOdsHSlSBNo)
 - [Где взять опыт работы тестировщику без коммерческого опыта #shorts](https://www.youtube.com/shorts/sW4N16EtSa4)
 - [Кризис в тестировании 2026: почему без опыта не берут даже джуном #shorts](https://www.youtube.com/shorts/jX6posNRMIo)
 - [Почему я почти ушёл с YouTube и решил вернуться #shorts](https://www.youtube.com/shorts/QzioXpMKRec)
 - [Я хочу вернуться…](https://www.youtube.com/shorts/fVjtomrYpUk)
-- [Rusau Learn: новая платформа для обучения тестировщиков. Почему это лучше обычных курсов?](https://www.youtube.com/watch?v=MtAJRpW18C8)
 <!-- YOUTUBE:END -->
 
 ---
