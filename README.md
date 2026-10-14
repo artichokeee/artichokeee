@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Не хочу снимать видео про тестирование. Что дальше будет на канале #shorts](https://www.youtube.com/shorts/Rmi8jSS_TLc)
 - [Бесплатный курс по тестированию — 111 тысяч студентов на Stepik #shorts](https://www.youtube.com/shorts/9HVeZpWWy0E)
 - [Идти ли в тестирование в 2026? С чего бы я начал сам #shorts](https://www.youtube.com/shorts/7Vk8rWU420w)
 - [QA Learn: твой первый шаг в мир тестирования #IT #тестирование #shorts](https://www.youtube.com/shorts/rOdsHSlSBNo)
 - [Где взять опыт работы тестировщику без коммерческого опыта #shorts](https://www.youtube.com/shorts/sW4N16EtSa4)
-- [Кризис в тестировании 2026: почему без опыта не берут даже джуном #shorts](https://www.youtube.com/shorts/jX6posNRMIo)
 <!-- YOUTUBE:END -->
 
 ---
