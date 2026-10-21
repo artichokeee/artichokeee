@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Сколько часов в день я работаю на себя после ухода из найма #shorts](https://www.youtube.com/shorts/_WqPJWAgVBE)
 - [Откуда взялся Арти: как «Артишок из Беларуси» стал маскотом курсов #shorts](https://www.youtube.com/shorts/aDJqVCfx_Y4)
 - [Почему одни доходят до работы в тестировании, а другие бросают #shorts](https://www.youtube.com/shorts/sWtNJr9orEk)
 - [Полгода без видео: запустил свою платформу для тестировщиков #shorts](https://www.youtube.com/shorts/CwgKImmoskc)
 - [Можно ли говорить «я не знаю» на собеседовании тестировщика? #shorts](https://www.youtube.com/shorts/KmoR6TNpo-Q)
-- [Не хочу снимать видео про тестирование. Что дальше будет на канале #shorts](https://www.youtube.com/shorts/Rmi8jSS_TLc)
 <!-- YOUTUBE:END -->
 
 ---
