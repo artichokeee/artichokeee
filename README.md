@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Я тестировщик и сделал платформу для 2000 студентов без команды](https://www.youtube.com/watch?v=kzCsZ67sa40)
 - [Я не планировал продавать курсы — меня попросили. 100 студентов уже работают #shorts](https://www.youtube.com/shorts/8qrbuicrBk4)
 - [Геймификация лучше, чем классические курсы по тестированию #shorts](https://www.youtube.com/shorts/cBdcpqWTiNE)
 - [Зачем учить ручное тестирование в 2026, если есть ИИ? #shorts](https://www.youtube.com/shorts/7Fwe07lkQz0)
 - [Сколько часов в день я работаю на себя после ухода из найма #shorts](https://www.youtube.com/shorts/_WqPJWAgVBE)
-- [Откуда взялся Арти: как «Артишок из Беларуси» стал маскотом курсов #shorts](https://www.youtube.com/shorts/aDJqVCfx_Y4)
 <!-- YOUTUBE:END -->
 
 ---
