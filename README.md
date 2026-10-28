@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Мотивации нет давно, но я продолжаю работать. Как я борюсь с выгоранием #shorts](https://www.youtube.com/shorts/ScdSx7amQa0)
 - [Меня упрекнули, что я не гарантирую работу после курсов #shorts](https://www.youtube.com/shorts/Z6q7wzAWn04)
 - [Я тестировщик и сделал платформу для 2000 студентов без команды](https://www.youtube.com/watch?v=kzCsZ67sa40)
 - [Я не планировал продавать курсы — меня попросили. 100 студентов уже работают #shorts](https://www.youtube.com/shorts/8qrbuicrBk4)
 - [Геймификация лучше, чем классические курсы по тестированию #shorts](https://www.youtube.com/shorts/cBdcpqWTiNE)
-- [Зачем учить ручное тестирование в 2026, если есть ИИ? #shorts](https://www.youtube.com/shorts/7Fwe07lkQz0)
 <!-- YOUTUBE:END -->
 
 ---
