@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Мой стек нейросетей в 2026: Claude Code за 120 $ и что ещё я оплачиваю #shorts](https://www.youtube.com/shorts/ZONtR2EBPPs)
 - [Шесть лет на удалёнке: почему я не вернусь в офис #shorts](https://www.youtube.com/shorts/P4NJNPm19zs)
 - [Мотивации нет. Как я борюсь с выгоранием #shorts](https://www.youtube.com/shorts/ScdSx7amQa0)
 - [Меня упрекнули, что я не гарантирую работу после курсов #shorts](https://www.youtube.com/shorts/Z6q7wzAWn04)
 - [Я тестировщик и сделал платформу для обучения 2000 студентов без команды](https://www.youtube.com/watch?v=kzCsZ67sa40)
-- [Я не планировал продавать курсы — меня попросили. 100 студентов уже работают #shorts](https://www.youtube.com/shorts/8qrbuicrBk4)
 <!-- YOUTUBE:END -->
 
 ---
