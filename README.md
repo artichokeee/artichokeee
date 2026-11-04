@@ -29,10 +29,10 @@
 
 <!-- YOUTUBE:START -->
 - [Сколько делается один курс, даже с ИИ? #shorts](https://www.youtube.com/shorts/VOrZkLOezFU)
-- [Какие курсы я бы делал сейчас как автор: не громилы на 100 часов #shorts](https://www.youtube.com/shorts/DJhUoY9TZOM)
-- [ИИ, курсы или ментор: что выбрать для обучения тестированию #shorts](https://www.youtube.com/shorts/DNtURzGWJDc)
-- [Мой стек нейросетей в 2026: Claude Code за 120 $ и что ещё я оплачиваю #shorts](https://www.youtube.com/shorts/ZONtR2EBPPs)
-- [Шесть лет на удалёнке: почему я не вернусь в офис #shorts](https://www.youtube.com/shorts/P4NJNPm19zs)
+- [Курс на 100 часов – ошибка автора? #shorts](https://www.youtube.com/shorts/DJhUoY9TZOM)
+- [ИИ, курсы или ментор: что выбрать? #shorts](https://www.youtube.com/shorts/DNtURzGWJDc)
+- [Сколько я плачу за нейросети в 2026 #shorts](https://www.youtube.com/shorts/ZONtR2EBPPs)
+- [6 лет на удаленке. Вернусь ли я в офис? #shorts](https://www.youtube.com/shorts/P4NJNPm19zs)
 <!-- YOUTUBE:END -->
 
 ---
