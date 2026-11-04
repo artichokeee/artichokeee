@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Сколько делается один курс, даже с ИИ? #shorts](https://www.youtube.com/shorts/VOrZkLOezFU)
 - [Какие курсы я бы делал сейчас как автор: не громилы на 100 часов #shorts](https://www.youtube.com/shorts/DJhUoY9TZOM)
 - [ИИ, курсы или ментор: что выбрать для обучения тестированию #shorts](https://www.youtube.com/shorts/DNtURzGWJDc)
 - [Мой стек нейросетей в 2026: Claude Code за 120 $ и что ещё я оплачиваю #shorts](https://www.youtube.com/shorts/ZONtR2EBPPs)
 - [Шесть лет на удалёнке: почему я не вернусь в офис #shorts](https://www.youtube.com/shorts/P4NJNPm19zs)
-- [Мотивации нет. Как я борюсь с выгоранием #shorts](https://www.youtube.com/shorts/ScdSx7amQa0)
 <!-- YOUTUBE:END -->
 
 ---
