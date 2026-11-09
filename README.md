@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Сколько стоит своя платформа на вайбкодинге? #shorts](https://www.youtube.com/shorts/KCeHldtzino)
 - [Как я учусь вайбкодингу без курсов #shorts](https://www.youtube.com/shorts/tqsb0zVy_e0)
 - [Сколько делается один курс, даже с ИИ? #shorts](https://www.youtube.com/shorts/VOrZkLOezFU)
 - [Курс на 100 часов – ошибка автора? #shorts](https://www.youtube.com/shorts/DJhUoY9TZOM)
 - [ИИ, курсы или ментор: что выбрать? #shorts](https://www.youtube.com/shorts/DNtURzGWJDc)
-- [Сколько я плачу за нейросети в 2026 #shorts](https://www.youtube.com/shorts/ZONtR2EBPPs)
 <!-- YOUTUBE:END -->
 
 ---
