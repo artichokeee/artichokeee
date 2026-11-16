@@ -28,11 +28,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Зачем своя платформа, если есть Stepik? #shorts](https://www.youtube.com/shorts/NpQduxhcnN0)
 - [ИИ сделал все тесты зелеными](https://www.youtube.com/shorts/4BYzzRQsP1A)
 - [Почему хороший курс сам не продается? #shorts](https://www.youtube.com/shorts/DkshFc4PaJA)
 - [ИИ ошибается. Как я его проверяю #shorts](https://www.youtube.com/shorts/N6AFdWhAT_k)
 - [Распродажа 11.11: все курсы по тестированию за полцены #shorts](https://www.youtube.com/shorts/wvuSWSWQsIY)
-- [Сколько стоит своя платформа на вайбкодинге? #shorts](https://www.youtube.com/shorts/KCeHldtzino)
 <!-- YOUTUBE:END -->
 
 ---
