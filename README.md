@@ -1,31 +1,26 @@
-# Привет, меня зовут Артем!
+# Артем Русов – инженер по тестированию и автор курсов по тестированию ПО
+
+Учу тестированию ПО с нуля с 2019 года. Мои курсы прошли более ста тысяч человек, курс "Тестирование ПО с нуля" – победитель Stepik Awards 2025 в номинации "Прорыв года".
+
+**[Rusau Learn](https://learn.rusau.net/?utm_source=github&utm_medium=profile&utm_campaign=gh-profile)** – платформа для обучения тестировщиков, где идут мои курсы: теория и тест-дизайн, тестовая документация, API и Postman, SQL, мобильное тестирование, поиск работы и репетиция собеседования. У курсов проверка развернутых ответов с разбором, помощник по заданиям и сертификат по итогам. Программа каждого курса открыта целиком до покупки.
+
+### Бесплатно
+
+- [Тестирование с нуля. Теория+Практика. Базовый курс тестировщика](https://learn.rusau.net/catalog/testirovanie-po-bazovyy?utm_source=github&utm_medium=profile&utm_campaign=gh-profile)
+- [Тесты и вопросы для тестировщика](https://learn.rusau.net/catalog/testirovanie-po-testy?utm_source=github&utm_medium=profile&utm_campaign=gh-profile) – проверить знания перед собеседованием
+- [Тестовые задания для тестировщиков](https://artichokeee.github.io/zadaniya/) – реальные задания от компаний, [исходники на GitHub](https://github.com/artichokeee/test-assignments)
+- [Курсы по тестированию: с чего начать](https://learn.rusau.net/kursy-po-testirovaniyu?utm_source=github&utm_medium=profile&utm_campaign=gh-profile) и [как стать тестировщиком](https://learn.rusau.net/kak-stat-testirovshchikom?utm_source=github&utm_medium=profile&utm_campaign=gh-profile)
+- Как сделать похожее портфолио для тестировщика – [видео](https://www.youtube.com/watch?v=ORSti2aYnEE)
+
+### Где еще
+
+[YouTube](https://youtube.com/@rusau) · [Telegram-канал](https://t.me/qachanell) · [Stepik](https://stepik.org/users/483341705) · [LinkedIn](https://www.linkedin.com/in/artsiomrusau/) · [сайт](https://artichokeee.github.io/)
+
+Связаться: [LinkedIn](https://www.linkedin.com/in/artsiomrusau/) или [Telegram](https://t.me/artsiom_qa).
 
 ---
 
-### 👨‍💻 Обо мне:
-
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал Artsiom Rusau QA Life на [YouTube](https://youtube.com/@rusau) с аудиторией более 160.000 человек. За время преподавательской деятельности занимался обучением более 160000 студентов на разных платформах.
-
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
-- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- 📚 Все мои [курсы](https://rusau.net/courses)
-- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
-
----
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
----
-
-## Latest Youtube Videos
+## Последние видео
 
 <!-- YOUTUBE:START -->
 - [Зачем своя платформа, если есть Stepik? #shorts](https://www.youtube.com/shorts/NpQduxhcnN0)
@@ -37,7 +32,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+## Инструменты, которые разбираю в курсах
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
