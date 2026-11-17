@@ -9,6 +9,9 @@
 - [Тестирование с нуля. Теория+Практика. Базовый курс тестировщика](https://learn.rusau.net/catalog/testirovanie-po-bazovyy?utm_source=github&utm_medium=profile&utm_campaign=gh-profile)
 - [Тесты и вопросы для тестировщика](https://learn.rusau.net/catalog/testirovanie-po-testy?utm_source=github&utm_medium=profile&utm_campaign=gh-profile) – проверить знания перед собеседованием
 - [Тестовые задания для тестировщиков](https://artichokeee.github.io/zadaniya/) – реальные задания от компаний, [исходники на GitHub](https://github.com/artichokeee/test-assignments)
+- [50 вопросов на собеседовании тестировщика](https://github.com/artichokeee/qa-interview-questions) – короткие ответы под спойлером
+- [Инструменты тестировщика](https://artichokeee.github.io/qa-tools/) – SQL-песочница с багами в данных, кроссворд, калькулятор граничных значений и поиск багов на странице
+- [Stepik API cookbook](https://github.com/artichokeee/stepik-api-cookbook) – справочник по API Stepik для авторов курсов
 - [Курсы по тестированию: с чего начать](https://learn.rusau.net/kursy-po-testirovaniyu?utm_source=github&utm_medium=profile&utm_campaign=gh-profile) и [как стать тестировщиком](https://learn.rusau.net/kak-stat-testirovshchikom?utm_source=github&utm_medium=profile&utm_campaign=gh-profile)
 - Как сделать похожее портфолио для тестировщика – [видео](https://www.youtube.com/watch?v=ORSti2aYnEE)
 
