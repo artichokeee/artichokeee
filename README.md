@@ -14,7 +14,7 @@
 
 ### Где еще
 
-[YouTube](https://youtube.com/@rusau) · [Telegram-канал](https://t.me/qachanell) · [Stepik](https://stepik.org/users/483341705) · [LinkedIn](https://www.linkedin.com/in/artsiomrusau/) · [сайт](https://artichokeee.github.io/)
+[YouTube](https://youtube.com/@rusau) · [Telegram-канал](https://t.me/qachanell) · [Stepik](https://stepik.org/users/rusau/profile) · [LinkedIn](https://www.linkedin.com/in/artsiomrusau/) · [сайт](https://artichokeee.github.io/)
 
 Связаться: [LinkedIn](https://www.linkedin.com/in/artsiomrusau/) или [Telegram](https://t.me/artsiom_qa).
 
