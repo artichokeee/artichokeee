@@ -26,11 +26,11 @@
 ## Последние видео
 
 <!-- YOUTUBE:START -->
+- [Почему баг не воспроизводится?](https://www.youtube.com/shorts/XbLDBIthQTU)
+- [Арти не дает ответ. Чем он тогда поможет? #shorts](https://www.youtube.com/shorts/ZwZThvUh7J0)
 - [POST вернул 500, а заказ создался](https://www.youtube.com/shorts/u228oSdFmJE)
-- [Я ушел за найма и больше не тестировщик? #shorts](https://www.youtube.com/shorts/BalghAy7vrM)
+- [Я ушел из найма и больше не тестировщик? #shorts](https://www.youtube.com/shorts/BalghAy7vrM)
 - [Зачем своя платформа, если есть Stepik? #shorts](https://www.youtube.com/shorts/NpQduxhcnN0)
-- [ИИ сделал все тесты зелеными](https://www.youtube.com/shorts/4BYzzRQsP1A)
-- [Почему хороший курс сам не продается? #shorts](https://www.youtube.com/shorts/DkshFc4PaJA)
 <!-- YOUTUBE:END -->
 
 ---
