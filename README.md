@@ -26,11 +26,11 @@
 ## Последние видео
 
 <!-- YOUTUBE:START -->
-- [Почему я делаю продукты не только для СНГ #shorts](https://www.youtube.com/shorts/PNVZ3ofqrGE)
+- [Что можно вайбкодить, если ты тестировщик #shorts](https://www.youtube.com/shorts/PNVZ3ofqrGE)
 - [Черная пятница на Rusau Learn: курсы по тестированию на 30% дешевле #shorts](https://www.youtube.com/shorts/8_D-0iFQinQ)
 - [Как учиться с ИИ и строить план обучения? #shorts](https://www.youtube.com/shorts/pMttEiN334k)
 - [Почему баг не воспроизводится?](https://www.youtube.com/shorts/XbLDBIthQTU)
-- [Арти не дает ответ. Чем он тогда поможет? #shorts](https://www.youtube.com/shorts/ZwZThvUh7J0)
+- [ИИ-ассистент для курсов #shorts](https://www.youtube.com/shorts/ZwZThvUh7J0)
 <!-- YOUTUBE:END -->
 
 ---
